@@ -1,0 +1,18 @@
+.footer {
+  background: black;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.footer a {
+  font-size: 0.9rem;
+}
+ul{
+    padding: 0;
+}
+h1,
+h4,
+p {
+  color: #fff;
+  font-size: 0.9rem;
+}

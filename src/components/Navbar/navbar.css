@@ -1,0 +1,16 @@
+nav{
+    text-align: center;
+    border-bottom: 1px solid rgb(87, 84, 84);
+    background: rgb(34, 34, 58);
+}
+a{
+    margin: 10px 30px;
+    color: black;
+    font-size: 1.5rem;
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color:rgb(170, 159, 159);
+    cursor: pointer;
+}
